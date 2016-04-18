@@ -10,4 +10,5 @@ $GETH \
 	--networkid 21 \
 	--nodiscover \
 	--maxpeers 5 \
+	--port 30304
 	console
